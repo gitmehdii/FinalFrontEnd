@@ -42,7 +42,7 @@ const Home = () => {
           </div>
           <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
             <img
-              src="../../public/images/mehdi-removebg-preview.png"
+              src="images/mehdi-removebg-preview.png"
               alt="mockup"
               className="w-96 h-96 rounded-full"
             />
